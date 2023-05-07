@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="assets/all flavors.png"/>
+    <img src="assets/catwalk.png"/>
 </p>
 
 ## Previews
