@@ -58,6 +58,10 @@ Made for Blender 3.5.
   Primary accent, visible on most UI elements: `#D3123F`.
   Secondary accent, visible only when selecting multiple objects/vertices/other elements: `#9C0D2F`.
 
+## 💝 Thanks to
+
+- [Dalibor-P](https://github.com/Dalibor-P)
+
 &nbsp;
 
 <p align="center">
