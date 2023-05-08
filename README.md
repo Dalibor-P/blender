@@ -40,7 +40,7 @@
 
 ## Usage
 
-1. Clone this repository locally
+1. Clone or download this repository or your selected `.xml` theme file locally.
 2. Open Blender's settings and theme installation dialog: `Edit → Preferences → Themes → Install`.
 3. Browse to where you cloned Catppuccin and install the `.xml` file of your selected flavor and accent.
 4. This copies the theme into `./scripts/presets/interface_theme/` subdirectory of your Blender [configuration directory](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html). You may now select it from the drop down menu.
