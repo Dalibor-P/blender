@@ -1,6 +1,6 @@
 import subprocess
 import os
-from colorutils import Color
+from colorutils import Color # pip install colorutils
 
 # Define a function to replace colors in an XML file.
 def replace_colors(flavor, accent_name, accent_hex, themes_path):
