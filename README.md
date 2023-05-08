@@ -20,18 +20,22 @@
 <details>
 <summary>🌻 Latte</summary>
 <img src="assets/Latte.png"/>
+<img src="assets/accents latte.svg"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
 <img src="assets/Frappé.png"/>
+<img src="assets/accents frappe.svg"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
 <img src="assets/Macchiato.png"/>
+<img src="assets/accents macchiato.svg"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
 <img src="assets/Mocha.png"/>
+<img src="assets/accents mocha.svg"/>
 </details>
 
 ## Usage
