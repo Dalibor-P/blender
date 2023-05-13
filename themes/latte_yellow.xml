@@ -168,8 +168,8 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
-            outline="#bcc0cc"
-            inner="#bcc0ccff"
+            outline="#ccd0da"
+            inner="#ccd0daff"
             inner_sel="#df8e1dff"
             item="#4c4f69ff"
             text="#4c4f69"
@@ -213,8 +213,8 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
-            outline="#bcc0cc"
-            inner="#bcc0ccff"
+            outline="#df8e1d"
+            inner="#ccd0daff"
             inner_sel="#df8e1dff"
             item="#4c4f69ff"
             text="#4c4f69"
@@ -231,7 +231,7 @@
             outline="#bcc0cc"
             inner="#bcc0ccff"
             inner_sel="#df8e1dff"
-            item="#804dc2ff"
+            item="#6f470eff"
             text="#4c4f69"
             text_sel="#4c4f69"
             show_shaded="FALSE"
@@ -258,8 +258,8 @@
         </wcol_tooltip>
         <wcol_menu_item>
           <ThemeWidgetColors
-            outline="#bcc0cc"
-            inner="#bcc0ccff"
+            outline="#ccd0da"
+            inner="#ccd0daff"
             inner_sel="#df8e1dff"
             item="#4c4f69ff"
             text="#4c4f69"
@@ -303,10 +303,10 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            outline="#bcc0cc"
-            inner="#bcc0ccff"
-            inner_sel="#dce0e8ff"
-            item="#8839efff"
+            outline="#ccd0da"
+            inner="#ccd0daff"
+            inner_sel="#eff1f5ff"
+            item="#6f470eff"
             text="#4c4f69"
             text_sel="#4c4f69"
             show_shaded="FALSE"
