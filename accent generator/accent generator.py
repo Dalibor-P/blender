@@ -3,7 +3,7 @@ import os
 from colorutils import Color # pip install colorutils
 
 # Define a function to replace colors in an XML file.
-def replace_colors(flavor, accent_name, accent_hex, themes_path):
+def replace_colors(flavor, accent_name, accent_hex, themes_path, roundness):
     # Load the primary accent color and calculate the secondary accent color.
     loaded_color = Color(hex=accent_hex)
     loaded_color_str = str(loaded_color.hsv)
@@ -25,6 +25,7 @@ def replace_colors(flavor, accent_name, accent_hex, themes_path):
     # Replace the color codes in the XML file with the new color codes.
     new_file_content = file_content.replace('#bada55', str(loaded_color.hex))
     new_file_content = new_file_content.replace('#bada66', str(darker_color.hex))
+    new_file_content = new_file_content.replace('roundness=\"0.8\"','roundness=\"'+roundness+'\"')
 
     # Create a new XML file with the replaced colors.
     with open(os.path.join(themes_path, flavor + '_' + accent_name + '.xml'), 'w') as file:
@@ -49,22 +50,23 @@ latte_colors =     ['#dc8a78', '#dd7878', '#ea76cb', '#8839ef', '#d20f39', '#e64
 frappe_colors =    ['#f2d5cf', '#eebebe', '#f4b8e4', '#ca9ee6', '#e78284', '#ea999c', '#ef9f76', '#e5c890', '#a6d189', '#81c8be', '#99d1db', '#85c1dc', '#8caaee', '#babbf1']
 macchiato_colors = ['#f4dbd6', '#f0c6c6', '#f5bde6', '#c6a0f6', '#ed8796', '#ee99a0', '#f5a97f', '#eed49f', '#a6da95', '#8bd5ca', '#91d7e3', '#7dc4e4', '#8aadf4', '#b7bdf8']
 mocha_colors =     ['#f5e0dc', '#f2cdcd', '#f5c2e7', '#cba6f7', '#f38ba8', '#eba0ac', '#fab387', '#f9e2af', '#a6e3a1', '#94e2d5', '#89dceb', '#74c7ec', '#89b4fa', '#b4befe']
+roundness = input("What element roundness do you want? Acceptable values between 0 ... 1. Blender default is 0.4. Catppuccin default is 0.8.: ")
 
 # Call the replace_colors function to generate all flavors and accent combinations.
 for accent_name, accent_hex in zip(colors, latte_colors):
-    replace_colors('latte', accent_name, accent_hex, themes_path)
+    replace_colors('latte', accent_name, accent_hex, themes_path, roundness)
 print('Created all Latte variants!')
 
 for accent_name, accent_hex in zip(colors, frappe_colors):
-    replace_colors('frappe', accent_name, accent_hex, themes_path)
+    replace_colors('frappe', accent_name, accent_hex, themes_path, roundness)
 print('Created all Frappé variants!')
 
 for accent_name, accent_hex in zip(colors, macchiato_colors):
-    replace_colors('macchiato', accent_name, accent_hex, themes_path)
+    replace_colors('macchiato', accent_name, accent_hex, themes_path, roundness)
 print('Created all Macchiato variants!')
 
 for accent_name, accent_hex in zip(colors, mocha_colors):
-    replace_colors('mocha', accent_name, accent_hex, themes_path)
+    replace_colors('mocha', accent_name, accent_hex, themes_path, roundness)
 print('Created all Mocha variants!')
 
 # Remove the generated master XML files.

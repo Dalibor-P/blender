@@ -140,7 +140,7 @@
           <ThemeWidgetColors
             outline="#51576d"
             inner="#51576dff"
-            inner_sel="#51576dff"
+            inner_sel="#414559ff"
             item="#e78284ff"
             text="#c6d0f5"
             text_sel="#c6d0f5"
@@ -168,13 +168,13 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
-            outline="#414559"
+            outline="#737994"
             inner="#414559ff"
             inner_sel="#e78284ff"
             item="#c6d0f5ff"
             text="#c6d0f5"
             text_sel="#c6d0f5"
-            show_shaded="FALSE"
+            show_shaded="TRUE"
             shadetop="0"
             shadedown="0"
             roundness="0.8"
@@ -305,8 +305,8 @@
           <ThemeWidgetColors
             outline="#414559"
             inner="#414559ff"
-            inner_sel="#303446ff"
-            item="#734142ff"
+            inner_sel="#232634ff"
+            item="#e78284ff"
             text="#c6d0f5"
             text_sel="#c6d0f5"
             show_shaded="FALSE"
@@ -351,7 +351,7 @@
           <ThemeWidgetColors
             outline="#626880"
             inner="#626880ff"
-            inner_sel="#e78284ff"
+            inner_sel="#232634ff"
             item="#c6d0f5ff"
             text="#c6d0f5"
             text_sel="#c6d0f5"
@@ -493,8 +493,8 @@
         active_channels_group="#51576d"
         preview_range="#a14d0066"
         vertex="#000000"
-        vertex_select="#ff8500"
-        vertex_active="#ffffff"
+        vertex_select="#734142"
+        vertex_active="#e78284"
         vertex_size="6"
         vertex_bevel="#000000"
         vertex_unreferenced="#000000"
@@ -510,7 +510,7 @@
         handle_sel_auto_clamped="#f0af90"
         lastsel_point="#ffffff"
         handle_vertex="#000000"
-        handle_vertex_select="#ff8500"
+        handle_vertex_select="#e78284"
         handle_vertex_size="5"
         >
         <space>
@@ -581,9 +581,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -639,9 +639,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -714,9 +714,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -799,9 +799,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -859,9 +859,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -952,9 +952,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -1016,9 +1016,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -1067,9 +1067,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -1116,9 +1116,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -1191,9 +1191,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -1256,9 +1256,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -1369,9 +1369,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#51576dff"
-                back="#51576dff"
-                sub_back="#51576dff"
+                header="#414559ff"
+                back="#414559ff"
+                sub_back="#414559ff"
                 >
               </ThemePanelColors>
             </panelcolors>
