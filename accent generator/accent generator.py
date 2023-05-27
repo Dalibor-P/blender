@@ -38,9 +38,8 @@ for f in os.listdir(themes_path):
     os.remove(os.path.join(themes_path, f))
 
 # Run Puccinier to generate Frappé, Macchiato and Mocha flavors off of Latte
-cmd_str = ".\puccinier-0.1.2-x86_64-pc-windows-msvc.exe -s .\latte_master.xml -o frappe macchiato mocha"
+cmd_str = ".\puccinier-0.1.2-x86_64-pc-windows-msvc.exe -s .\\frappe_master.xml -o macchiato mocha"
 subprocess.run(cmd_str, shell=True)
-os.rename('frappe.xml', 'frappe_master.xml')
 os.rename('macchiato.xml', 'macchiato_master.xml')
 os.rename('mocha.xml', 'mocha_master.xml')
 
@@ -70,6 +69,5 @@ for accent_name, accent_hex in zip(colors, mocha_colors):
 print('Created all Mocha variants!')
 
 # Remove the generated master XML files.
-os.remove('frappe_master.xml')
 os.remove('macchiato_master.xml')
 os.remove('mocha_master.xml')
