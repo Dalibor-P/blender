@@ -46,9 +46,9 @@
 
 Made for Blender 3.5.
 
-1. Clone or download this repository locally.
+1. Head over to the [latest release](https://github.com/Dalibor-P/blender/releases/latest) and download your selected accented flavor.
 2. Open Blender's settings and theme installation dialog: `Edit → Preferences → Themes → Install`.
-3. Browse to where you downloaded Catppuccin and open the `themes` directory. Install the `.xml` file of your chosen flavor and accent.
+3. Browse to where you downloaded the theme and install the `.xml` file.
 4. This copies the theme into `./scripts/presets/interface_theme/` subdirectory of your Blender [configuration directory](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html). You may now select it from the drop down menu.
 
 ## ❓ FAQ
