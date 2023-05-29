@@ -76,9 +76,7 @@ A: Raise an issue and propose an alternative accent colour.
 A: Others have made Catppuccin themes for Blender as well. You might like their versions too:
 
 * [Catppuccin by Ameknite](https://github.com/ameknite/blender) is a well done dark theme inspired by Blenders default dark theme.
-
 * [Catppuccin by codekisser](https://github.com/codekisser/blender) is another well done dark theme.
-
 * [Catppuccin by nekowinston](https://github.com/nekowinston/ctp-blender) appears to be build on an older version of Catppuccin, and no longer maintained.
 
 [Catppuccin team](https://github.com/catppuccin) has not yet selected one particular implementation as official.
