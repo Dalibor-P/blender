@@ -49,7 +49,7 @@
 3. Browse to where you downloaded the theme and install the `.xml` file.
 4. This copies the theme into `./scripts/presets/interface_theme/` subdirectory of your Blender [configuration directory](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html). You may now select it from the drop down menu.
 
-Made for Blender 3.5. You can use my add-on [Theme Swapper](https://github.com/Dalibor-P/Theme-Swapper) to quickly swap between light and dark themes.
+Made for Blender 3.5. You can try my add-on [Theme Swapper](https://github.com/Dalibor-P/Theme-Swapper) to quickly swap between light and dark themes.
 
 ## ❓ FAQ
 
@@ -61,13 +61,7 @@ A: Clone or download the repository locally. If you don't have python, open your
 2. `#bada55` replace for your custom accent colour, that will show on many UI elements. For example `#ad75f5` is light mauve.
 3. `#bada66` replace for your custom secondary accent colour, that will show when selecting multiple objects. For example `#563a7a` is dark mauve.
 
-If you have python, run `accent generator/accent generator.py` with arguments of your choice. All files in `themes/` will be regenerated for all four flavours. You need colorutils installed (`pip install colorutils`). Acceptable arguments:
-
-* string of a float in range of `0` to `1`, that denotes element roundness. Defaults to `0.4`, which is Blender Dark default.
-* string `all`, that generates all default accents
-* string with color hex code, like `#8839ef`, that generates your custom accent
-
-Examples:
+If you have python, run `accent generator/accent generator.py` with arguments of your choice. All files in `themes/` will be regenerated for all four flavours. You need colorutils installed (`pip install colorutils`). Examples:
 
 * `python 'accent generator.py' '0.4' 'All'` will generate all default accents with roundness of 0.4 which is Blender Dark default roundness.
 * `python 'accent generator.py' '#E64553' '1'` will generate only custom maroon accent with maximum roundness.
