@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="2.9540685"
-     inkscape:cx="107.64815"
-     inkscape:cy="106.6326"
+     inkscape:zoom="0.52221047"
+     inkscape:cx="988.10735"
+     inkscape:cy="518.94785"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -379,7 +379,7 @@
        x="673.67041"
        y="173.67039"
        ry="36.092976" /><rect
-       style="fill:#8839ef;fill-opacity:1"
+       style="fill:#e0b0ff;fill-opacity:1"
        id="rect564"
        width="152.65921"
        height="152.65921"
@@ -414,14 +414,14 @@
        x="173.67041"
        y="500"
        ry="36.092976" /><rect
-       style="fill:#40a02b;fill-opacity:1"
+       style="fill:#49b530;fill-opacity:1"
        id="rect574"
        width="152.65921"
        height="152.65921"
        x="423.67041"
        y="500"
        ry="36.092976" /><rect
-       style="fill:#179299;fill-opacity:1"
+       style="fill:#19a1a9;fill-opacity:1"
        id="rect576"
        width="152.65921"
        height="152.65921"
@@ -442,7 +442,7 @@
        x="1173.6704"
        y="500"
        ry="36.092976" /><rect
-       style="fill:#1e66f5;fill-opacity:1"
+       style="fill:#6898f8;fill-opacity:1"
        id="rect582"
        width="152.65921"
        height="152.65921"
@@ -464,7 +464,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9973">Rosewater</tspan></text><text
+         id="tspan11969">Rosewater</tspan></text><text
        xml:space="preserve"
        transform="translate(606.25197,258.0745)"
        id="text1069"
@@ -473,7 +473,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9975">Flamingo</tspan></text><text
+         id="tspan11971">Flamingo</tspan></text><text
        xml:space="preserve"
        transform="translate(900.41212,258.0745)"
        id="text1177"
@@ -482,7 +482,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9977">Pink</tspan></text><text
+         id="tspan11973">Pink</tspan></text><text
        xml:space="preserve"
        transform="translate(1141.0176,258.0745)"
        id="text1235"
@@ -491,7 +491,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9979">Mauve</tspan></text><text
+         id="tspan11975">Mauve</tspan></text><text
        xml:space="preserve"
        transform="translate(1412.2871,258.0745)"
        id="text1241"
@@ -500,7 +500,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9981">Red</tspan></text><text
+         id="tspan11977">Red</tspan></text><text
        xml:space="preserve"
        transform="translate(1630.4219,258.0745)"
        id="text1247"
@@ -509,7 +509,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9983">Maroon</tspan></text><text
+         id="tspan11979">Maroon</tspan></text><text
        xml:space="preserve"
        transform="translate(1890.3535,258.0745)"
        id="text1253"
@@ -518,7 +518,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9985">Peach</tspan></text><text
+         id="tspan11981">Peach</tspan></text><text
        xml:space="preserve"
        transform="translate(379.69922,346.20432)"
        id="text1259"
@@ -527,7 +527,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9987">Yellow</tspan></text><text
+         id="tspan11983">Yellow</tspan></text><text
        xml:space="preserve"
        transform="translate(641.25197,346.20432)"
        id="text1265"
@@ -536,7 +536,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9989">Green</tspan></text><text
+         id="tspan11985">Green</tspan></text><text
        xml:space="preserve"
        transform="translate(901.95509,346.20432)"
        id="text1271"
@@ -545,7 +545,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9991">Teal</tspan></text><text
+         id="tspan11987">Teal</tspan></text><text
        xml:space="preserve"
        transform="translate(1161.9649,346.20432)"
        id="text1277"
@@ -554,7 +554,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9993">Sky</tspan></text><text
+         id="tspan11989">Sky</tspan></text><text
        xml:space="preserve"
        transform="translate(1357.4238,346.20432)"
        id="text1283"
@@ -563,7 +563,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9995">Sapphire</tspan></text><text
+         id="tspan11991">Sapphire</tspan></text><text
        xml:space="preserve"
        transform="translate(1650.9492,346.20432)"
        id="text1289"
@@ -572,7 +572,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9997">Blue</tspan></text><text
+         id="tspan11993">Blue</tspan></text><text
        xml:space="preserve"
        transform="translate(1856.0526,346.20432)"
        id="text1295"
@@ -581,7 +581,7 @@
        y="0"><tspan
          x="-195.32422"
          y="120.87891"
-         id="tspan9999">Lavender</tspan></text><rect
+         id="tspan11995">Lavender</tspan></text><rect
        style="display:inline;fill:#4c4f69;fill-opacity:1;stroke-width:0.0425712"
        id="rect381-4"
        width="483.34698"
@@ -595,7 +595,7 @@
        style="font-size:66.6667px;font-family:Consolas;-inkscape-font-specification:Consolas;white-space:pre;shape-inside:url(#rect7108);opacity:1;fill:#4c4f69;fill-opacity:1;stroke-width:2.058"><tspan
          x="0"
          y="57.845083"
-         id="tspan10001">Latte Accents</tspan></text></g><g
+         id="tspan11997">Latte Accents</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"><path

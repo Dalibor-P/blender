@@ -168,7 +168,7 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
-            outline="#9ca0b0"
+            outline="#7c7f93"
             inner="#ccd0daff"
             inner_sel="#d20f39ff"
             item="#4c4f69ff"
@@ -213,7 +213,7 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
-            outline="#d20f39"
+            outline="#7c7f93"
             inner="#ccd0daff"
             inner_sel="#d20f39ff"
             item="#4c4f69ff"
@@ -276,7 +276,7 @@
             outline="#bcc0cc"
             inner="#bcc0ccff"
             inner_sel="#bcc0ccff"
-            item="#d20f39ff"
+            item="#7c7f93ff"
             text="#4c4f69"
             text_sel="#4c4f69"
             show_shaded="FALSE"
