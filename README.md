@@ -49,7 +49,7 @@
 3. Browse to where you downloaded the theme and install the `.xml` file.
 4. This copies the theme into `./scripts/presets/interface_theme/` subdirectory of your Blender [configuration directory](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html). You may now select it from the drop down menu.
 
-Made for Blender 3.5. You can try my add-on [Theme Swapper](https://github.com/Dalibor-P/Theme-Swapper) to quickly swap between light and dark themes.
+Made for Blender 3.5+. You can try my add-on [Theme Swapper](https://github.com/Dalibor-P/Theme-Swapper) to quickly swap between light and dark themes.
 
 ## ❓ FAQ
 
